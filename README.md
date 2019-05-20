@@ -26,3 +26,13 @@
 #### 原理？
 
 
+### [npm](https://www.npmjs.com.cn/getting-started/what-is-npm/)
+> npm 为你和你的团队打开了连接整个 JavaScript 天才世界的一扇大门。它是世界上最大的软件注册表，每星期大约有 30 亿次的下载量，包含超过 600000 个 包（package） （即，代码模块）。来自各大洲的开源软件开发者使用 npm 互相分享和借鉴。包的结构使您能够轻松跟踪依赖项和版本。
+
+#### npm 由三个独立的部分组成：
+- 网站
+- 注册表（registry）
+- 命令行工具 (CLI)
+
+### [Vue2-animate](https://the-allstars.com/vue2-animate/)
+  各种效果
